@@ -18,7 +18,7 @@ class Tile extends Component {
     const {heading, tag, text} = this.props;
 
     return (
-    <Container>
+    <Container visible={this.props.visible}>
         <Heading>{heading}</Heading>
         <Tag text={tag} type={tag} />
         <Text show={this.state.expanded}>{text}</Text>

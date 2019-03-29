@@ -27,6 +27,19 @@ export const Name = styled.h2`
   font-size: 28px;
 `;
 
+export const ViewAllLink = styled.a`
+  font-size: 16px;
+  color: #1d9bfb;
+  font-weight: normal;
+  display: ${props => props.visible ? 'initial' : 'none'}
+  margin-top: 20px;
+
+  &:hover {
+    color: #1472ba;
+    cursor: pointer;
+  }
+`;
+
 export const Close = styled.a`
   margin-top: -30px;
   margin-right: -10px;

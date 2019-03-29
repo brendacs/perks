@@ -8,7 +8,7 @@ export const Container = styled.div`
   padding: 25px;
   margin: 25px;
   background-color: white;
-  border: 1px solid black;
+  border: 1px dashed #1472ba;
 `;
 
 export const Header = styled.div`
@@ -30,7 +30,7 @@ export const Heading = styled.h3`
 
 export const Text = styled.p`
   font-size: 14px;
-  margin: 15px 0;
+  margin: 15px 0 30px 0;
   color: #3a3a3a;
 `;
 

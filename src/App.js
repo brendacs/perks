@@ -13,6 +13,7 @@ class App extends Component {
     super();
     this.state = {
       cards: new Set([0, 1, 2]),
+      perks: -1,
       alert: "",
       alertType: "",
       showAlert: false
@@ -54,6 +55,10 @@ class App extends Component {
     this.setState({ showAlert: false });
   }
 
+  comparePerk = (num) => {
+    this.setState({ perks: num });
+  }
+
   render() {
     const companyList = Object.keys(perks);
     const emptyCards = [1, 2, 3];
@@ -85,6 +90,8 @@ class App extends Component {
                     key={idx}
                     closeCard={() => this.closeCard(idx)}
                     cards={this.state.cards}
+                    perks={this.state.perks}
+                    comparePerk={this.comparePerk}
                   />
                 );
               })
@@ -94,17 +101,17 @@ class App extends Component {
                 return (
                   <EmptyCard
                     title="Add Company"
-                    subtitle="Use Sidebar"
-                    text="Using the sidebar list, add another company to compare perks"
-                    altSubtitle="Use Search"
-                    altText="Using the search bar, add another company to compare perks"
                     visible={this.state.cards.size < item}
                   />
                 );
               })
             }
           </Container>
-          <Sidebar numCards={this.state.cards.size} addCard={this.addCard} />
+          <Sidebar
+            numCards={this.state.cards.size}
+            addCard={this.addCard}
+            comparePerk={this.comparePerk}
+          />
         </BodyContainer>
       </AppWrapper>
     );

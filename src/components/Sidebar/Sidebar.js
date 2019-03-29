@@ -28,9 +28,11 @@ class Sidebar extends Component {
           <Heading>Perks</Heading>
           <LinkContainer>
             {
-              perkList.map(item => {
+              perkList.map((item, idx) => {
                 return (
-                  <Link>{companyPerks[item].category}</Link>
+                  <Link onClick={() => this.props.comparePerk(idx)}>
+                    {companyPerks[item].category}
+                  </Link>
                 );
               })
             }
