@@ -1,12 +1,12 @@
 import styled from 'styled-components';
 
 export const Container = styled.div`
-  width: 200px;
+  width: 15vw;
   display: ${props => props.visible ? 'flex' : 'none'};
   flex-direction: column;
   border-radius: 5px;
   padding: 25px;
-  margin: 25px;
+  margin: 2.5vw;
   background-color: white;
   -webkit-box-shadow: -1px 3px 20px -10px rgba(179,179,179,1);
   -moz-box-shadow: -1px 3px 20px -10px rgba(179,179,179,1);

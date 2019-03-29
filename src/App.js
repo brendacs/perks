@@ -102,6 +102,7 @@ class App extends Component {
                   <EmptyCard
                     title="Add Company"
                     visible={this.state.cards.size < item}
+                    addCard={this.addCard}
                   />
                 );
               })

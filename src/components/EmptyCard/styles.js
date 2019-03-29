@@ -1,12 +1,12 @@
 import styled from 'styled-components';
 
 export const Container = styled.div`
-  width: 200px;
+  width: 15vw;
   display: ${props => props.visible ? 'flex' : 'none'};
   flex-direction: column;
   border-radius: 5px;
   padding: 25px;
-  margin: 25px;
+  margin: 2.5vw;
   background-color: white;
   border: 1px dashed #1472ba;
 `;
@@ -34,13 +34,32 @@ export const Text = styled.p`
   color: #3a3a3a;
 `;
 
+export const LinkContainer = styled.div`
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+`;
+
 export const Link = styled.a`
   font-size: 16px;
+  margin-bottom: 5px;
   color: #1d9bfb;
   font-weight: normal;
+  display: ${props => props.visible ? 'initial' : 'none'};
 
   &:hover {
     color: #1472ba;
     cursor: pointer;
   }
+`;
+
+export const SearchBar = styled.input`
+  padding: 5px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #1d9bfb;
+  outline: none;
+  width: 90%;
+  margin-top: -15px;
+  margin-bottom: 15px;
 `;
