@@ -8,10 +8,7 @@ export const Container = styled.div`
   padding: 25px;
   margin: 25px;
   background-color: white;
-  -webkit-box-shadow: -1px 3px 20px -10px rgba(179,179,179,1);
-  -moz-box-shadow: -1px 3px 20px -10px rgba(179,179,179,1);
-  box-shadow: -1px 3px 20px -10px rgba(179,179,179,1);
-  border: 1px solid white;
+  border: 1px solid black;
 `;
 
 export const Header = styled.div`
@@ -23,18 +20,27 @@ export const Header = styled.div`
   margin-bottom: 40px;
 `;
 
-export const Name = styled.h2`
+export const Title = styled.h2`
   font-size: 28px;
 `;
 
-export const Close = styled.a`
-  margin-top: -30px;
-  margin-right: -10px;
+export const Heading = styled.h3`
+  font-size: 20px;
+`;
+
+export const Text = styled.p`
+  font-size: 14px;
+  margin: 15px 0;
+  color: #3a3a3a;
+`;
+
+export const Link = styled.a`
   font-size: 16px;
-  color: #e54444;
+  color: #1d9bfb;
+  font-weight: normal;
 
   &:hover {
+    color: #1472ba;
     cursor: pointer;
-    color: #ba3535;
   }
 `;

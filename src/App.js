@@ -1,10 +1,11 @@
 import React, { Component } from 'react';
 import randomColor from 'randomcolor';
 import CompanyCard from './components/CompanyCard/CompanyCard';
+import EmptyCard from './components/EmptyCard/EmptyCard';
 import Sidebar from './components/Sidebar/Sidebar';
-import { AppWrapper, BodyContainer, Container, Header, Heading, SubHeading } from './styles';
 import Guide from './components/Guide/Guide';
 import Alert from './components/Alert/Alert';
+import { AppWrapper, BodyContainer, Container, Header, Heading, SubHeading } from './styles';
 import perks from './constants/perks.json';
 
 class App extends Component {
@@ -55,6 +56,7 @@ class App extends Component {
 
   render() {
     const companyList = Object.keys(perks);
+    const emptyCards = [1, 2, 3];
 
     return (
       <AppWrapper>
@@ -83,6 +85,20 @@ class App extends Component {
                     key={idx}
                     closeCard={() => this.closeCard(idx)}
                     cards={this.state.cards}
+                  />
+                );
+              })
+            }
+            {
+              emptyCards.map((item, idx) => {
+                return (
+                  <EmptyCard
+                    title="Add Company"
+                    subtitle="Use Sidebar"
+                    text="Using the sidebar list, add another company to compare perks"
+                    altSubtitle="Use Search"
+                    altText="Using the search bar, add another company to compare perks"
+                    visible={this.state.cards.size < item}
                   />
                 );
               })

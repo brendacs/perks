@@ -6,17 +6,22 @@ class Sidebar extends Component {
   render() {
     const companyPerks = perks["google"];
     const perkList = Object.keys(perks["google"]);
+    const companyList = Object.keys(perks);
 
     return (
       <Container>
         <Section>
           <Heading>Companies</Heading>
           <LinkContainer>
-            <Link onClick={() => this.props.addCard(0)}>Google</Link>
-            <Link onClick={() => this.props.addCard(1)}>Facebook</Link>
-            <Link onClick={() => this.props.addCard(2)}>Amazon</Link>
-            <Link onClick={() => this.props.addCard(3)}>Microsoft</Link>
-            <Link onClick={() => this.props.addCard(4)}>Uber</Link>
+            {
+              companyList.map((item, idx) => {
+                return (
+                  <Link onClick={() => this.props.addCard(idx)}>
+                    {item.charAt(0).toUpperCase() + item.substring(1)}
+                  </Link>
+                );
+              })
+            }
           </LinkContainer>
         </Section>
         <Section>
