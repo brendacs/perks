@@ -1,0 +1,562 @@
+{
+    "google": {
+        "comp": {
+            "category": "$ Philosophy",
+            "text": "In order to keep you happy, Google will give raises, cash bonuses and stock refreshers yearly. You get larger raises if promoted.",
+            "tag": "Excellent"
+        },
+        "vac": {
+            "category": "Vacation",
+            "text": "",
+            "tag": "Good"
+        },
+        "pto": {
+            "category": "PTO & Sick Days",
+            "text": "",
+            "tag": "Excellent"
+        },
+        "meals": {
+            "category": "Meals & Food",
+            "text": "",
+            "tag": ""
+        },
+        "snacks": {
+            "category": "Snacks",
+            "text": "",
+            "tag": ""
+        },
+        "drinks": {
+            "category": "Drinks",
+            "text": "",
+            "tag": ""
+        },
+        "retire": {
+            "category": "401k Matching",
+            "text": "",
+            "tag": ""
+        },
+        "health": {
+            "category": "Health & Fitness",
+            "text": "",
+            "tag": ""
+        },
+        "spons": {
+            "category": "Sponsorship",
+            "text": "",
+            "tag": ""
+        },
+        "holiday": {
+            "category": "Company Holidays",
+            "text": "",
+            "tag": ""
+        },
+        "phone": {
+            "category": "Cellphone Allowance",
+            "text": "",
+            "tag": ""
+        },
+        "charity": {
+            "category": "Donation Matching",
+            "text": "",
+            "tag": ""
+        },
+        "commute": {
+            "category": "Commuter Benefits",
+            "text": "",
+            "tag": ""
+        },
+        "leave": {
+            "category": "Maternity/Paternity",
+            "text": "",
+            "tag": ""
+        },
+        "child": {
+            "category": "Childcare & Family",
+            "text": "",
+            "tag": ""
+        },
+        "onsite": {
+            "category": "Onsite Facilities",
+            "text": "",
+            "tag": ""
+        },
+        "dog": {
+            "category": "Dog-friendly Policy",
+            "text": "",
+            "tag": ""
+        },
+        "rec": {
+            "category": "Recreation",
+            "text": "",
+            "tag": ""
+        },
+        "edu": {
+            "category": "Educational Benefits",
+            "text": "",
+            "tag": ""
+        },
+        "insurance": {
+            "category": "Health Insurance",
+            "text": "",
+            "tag": ""
+        },
+        "hsa": {
+            "category": "Health Savings",
+            "text": "",
+            "tag": ""
+        },
+        "misc": {
+            "category": "Miscellaneous",
+            "text": "",
+            "tag": ""
+        }
+    },
+    "facebook": {
+        "comp": {
+            "category": "$ Philosophy",
+            "text": "",
+            "tag": "Excellent"
+        },
+        "vac": {
+            "category": "Vacation",
+            "text": "",
+            "tag": "Excellent"
+        },
+        "pto": {
+            "category": "PTO & Sick Days",
+            "text": "",
+            "tag": "Excellent"
+        },
+        "meals": {
+            "category": "Meals & Food",
+            "text": "",
+            "tag": ""
+        },
+        "snacks": {
+            "category": "Snacks",
+            "text": "",
+            "tag": ""
+        },
+        "drinks": {
+            "category": "Drinks",
+            "text": "",
+            "tag": ""
+        },
+        "retire": {
+            "category": "401k Matching",
+            "text": "",
+            "tag": ""
+        },
+        "health": {
+            "category": "Health & Fitness",
+            "text": "",
+            "tag": ""
+        },
+        "spons": {
+            "category": "Sponsorship",
+            "text": "",
+            "tag": ""
+        },
+        "holiday": {
+            "category": "Company Holidays",
+            "text": "",
+            "tag": ""
+        },
+        "phone": {
+            "category": "Cellphone Allowance",
+            "text": "",
+            "tag": ""
+        },
+        "charity": {
+            "category": "Donation Matching",
+            "text": "",
+            "tag": ""
+        },
+        "commute": {
+            "category": "Commuter Benefits",
+            "text": "",
+            "tag": ""
+        },
+        "leave": {
+            "category": "Maternity/Paternity",
+            "text": "",
+            "tag": ""
+        },
+        "child": {
+            "category": "Childcare & Family",
+            "text": "",
+            "tag": ""
+        },
+        "onsite": {
+            "category": "Onsite Facilities",
+            "text": "",
+            "tag": ""
+        },
+        "dog": {
+            "category": "Dog-friendly Policy",
+            "text": "",
+            "tag": ""
+        },
+        "rec": {
+            "category": "Recreation",
+            "text": "",
+            "tag": ""
+        },
+        "edu": {
+            "category": "Educational Benefits",
+            "text": "",
+            "tag": ""
+        },
+        "insurance": {
+            "category": "Health Insurance",
+            "text": "",
+            "tag": ""
+        },
+        "hsa": {
+            "category": "Health Savings",
+            "text": "",
+            "tag": ""
+        },
+        "misc": {
+            "category": "Miscellaneous",
+            "text": "",
+            "tag": ""
+        }
+    },
+    "amazon": {
+        "comp": {
+            "category": "$ Philosophy",
+            "text": "",
+            "tag": "Poor"
+        },
+        "vac": {
+            "category": "Vacation",
+            "text": "",
+            "tag": "Fair"
+        },
+        "pto": {
+            "category": "PTO & Sick Days",
+            "text": "",
+            "tag": "Good"
+        },
+        "meals": {
+            "category": "Meals & Food",
+            "text": "",
+            "tag": ""
+        },
+        "snacks": {
+            "category": "Snacks",
+            "text": "",
+            "tag": ""
+        },
+        "drinks": {
+            "category": "Drinks",
+            "text": "",
+            "tag": ""
+        },
+        "retire": {
+            "category": "401k Matching",
+            "text": "",
+            "tag": ""
+        },
+        "health": {
+            "category": "Health & Fitness",
+            "text": "",
+            "tag": ""
+        },
+        "spons": {
+            "category": "Sponsorship",
+            "text": "",
+            "tag": ""
+        },
+        "holiday": {
+            "category": "Company Holidays",
+            "text": "",
+            "tag": ""
+        },
+        "phone": {
+            "category": "Cellphone Allowance",
+            "text": "",
+            "tag": ""
+        },
+        "charity": {
+            "category": "Donation Matching",
+            "text": "",
+            "tag": ""
+        },
+        "commute": {
+            "category": "Commuter Benefits",
+            "text": "",
+            "tag": ""
+        },
+        "leave": {
+            "category": "Maternity/Paternity",
+            "text": "",
+            "tag": ""
+        },
+        "child": {
+            "category": "Childcare & Family",
+            "text": "",
+            "tag": ""
+        },
+        "onsite": {
+            "category": "Onsite Facilities",
+            "text": "",
+            "tag": ""
+        },
+        "dog": {
+            "category": "Dog-friendly Policy",
+            "text": "",
+            "tag": ""
+        },
+        "rec": {
+            "category": "Recreation",
+            "text": "",
+            "tag": ""
+        },
+        "edu": {
+            "category": "Educational Benefits",
+            "text": "",
+            "tag": ""
+        },
+        "insurance": {
+            "category": "Health Insurance",
+            "text": "",
+            "tag": ""
+        },
+        "hsa": {
+            "category": "Health Savings",
+            "text": "",
+            "tag": ""
+        },
+        "misc": {
+            "category": "Miscellaneous",
+            "text": "",
+            "tag": ""
+        }
+    },
+    "microsoft": {
+        "comp": {
+            "category": "$ Philosophy",
+            "text": "",
+            "tag": "Excellent"
+        },
+        "vac": {
+            "category": "Vacation",
+            "text": "",
+            "tag": "Bad"
+        },
+        "pto": {
+            "category": "PTO & Sick Days",
+            "text": "",
+            "tag": ""
+        },
+        "meals": {
+            "category": "Meals & Food",
+            "text": "",
+            "tag": ""
+        },
+        "snacks": {
+            "category": "Snacks",
+            "text": "",
+            "tag": ""
+        },
+        "drinks": {
+            "category": "Drinks",
+            "text": "",
+            "tag": ""
+        },
+        "retire": {
+            "category": "401k Matching",
+            "text": "",
+            "tag": ""
+        },
+        "health": {
+            "category": "Health & Fitness",
+            "text": "",
+            "tag": ""
+        },
+        "spons": {
+            "category": "Sponsorship",
+            "text": "",
+            "tag": ""
+        },
+        "holiday": {
+            "category": "Company Holidays",
+            "text": "",
+            "tag": ""
+        },
+        "phone": {
+            "category": "Cellphone Allowance",
+            "text": "",
+            "tag": ""
+        },
+        "charity": {
+            "category": "Donation Matching",
+            "text": "",
+            "tag": ""
+        },
+        "commute": {
+            "category": "Commuter Benefits",
+            "text": "",
+            "tag": ""
+        },
+        "leave": {
+            "category": "Maternity/Paternity",
+            "text": "",
+            "tag": ""
+        },
+        "child": {
+            "category": "Childcare & Family",
+            "text": "",
+            "tag": ""
+        },
+        "onsite": {
+            "category": "Onsite Facilities",
+            "text": "",
+            "tag": ""
+        },
+        "dog": {
+            "category": "Dog-friendly Policy",
+            "text": "",
+            "tag": ""
+        },
+        "rec": {
+            "category": "Recreation",
+            "text": "",
+            "tag": ""
+        },
+        "edu": {
+            "category": "Educational Benefits",
+            "text": "",
+            "tag": ""
+        },
+        "insurance": {
+            "category": "Health Insurance",
+            "text": "",
+            "tag": ""
+        },
+        "hsa": {
+            "category": "Health Savings",
+            "text": "",
+            "tag": ""
+        },
+        "misc": {
+            "category": "Miscellaneous",
+            "text": "",
+            "tag": ""
+        }
+    },
+    "uber": {
+        "comp": {
+            "category": "$ Philosophy",
+            "text": "",
+            "tag": ""
+        },
+        "vac": {
+            "category": "Vacation",
+            "text": "",
+            "tag": ""
+        },
+        "pto": {
+            "category": "PTO & Sick Days",
+            "text": "",
+            "tag": ""
+        },
+        "meals": {
+            "category": "Meals & Food",
+            "text": "",
+            "tag": ""
+        },
+        "snacks": {
+            "category": "Snacks",
+            "text": "",
+            "tag": ""
+        },
+        "drinks": {
+            "category": "Drinks",
+            "text": "",
+            "tag": ""
+        },
+        "retire": {
+            "category": "401k Matching",
+            "text": "",
+            "tag": ""
+        },
+        "health": {
+            "category": "Health & Fitness",
+            "text": "",
+            "tag": ""
+        },
+        "spons": {
+            "category": "Sponsorship",
+            "text": "",
+            "tag": ""
+        },
+        "holiday": {
+            "category": "Company Holidays",
+            "text": "",
+            "tag": ""
+        },
+        "phone": {
+            "category": "Cellphone Allowance",
+            "text": "",
+            "tag": ""
+        },
+        "charity": {
+            "category": "Donation Matching",
+            "text": "",
+            "tag": ""
+        },
+        "commute": {
+            "category": "Commuter Benefits",
+            "text": "",
+            "tag": ""
+        },
+        "leave": {
+            "category": "Maternity/Paternity",
+            "text": "",
+            "tag": ""
+        },
+        "child": {
+            "category": "Childcare & Family",
+            "text": "",
+            "tag": ""
+        },
+        "onsite": {
+            "category": "Onsite Facilities",
+            "text": "",
+            "tag": ""
+        },
+        "dog": {
+            "category": "Dog-friendly Policy",
+            "text": "",
+            "tag": ""
+        },
+        "rec": {
+            "category": "Recreation",
+            "text": "",
+            "tag": ""
+        },
+        "edu": {
+            "category": "Educational Benefits",
+            "text": "",
+            "tag": ""
+        },
+        "insurance": {
+            "category": "Health Insurance",
+            "text": "",
+            "tag": ""
+        },
+        "hsa": {
+            "category": "Health Savings",
+            "text": "",
+            "tag": ""
+        },
+        "misc": {
+            "category": "Miscellaneous",
+            "text": "",
+            "tag": ""
+        }
+    }
+}
