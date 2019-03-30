@@ -2,561 +2,703 @@
     "google": {
         "comp": {
             "category": "$ Philosophy",
-            "text": "In order to keep you happy, Google will give raises, cash bonuses and stock refreshers yearly. You get larger raises if promoted.",
+            "text": "In order to keep you happy, Google will give raises, cash bonuses and stock refreshers yearly. You get larger raises if promoted",
             "tag": "Excellent"
         },
         "vac": {
             "category": "Vacation",
-            "text": "",
+            "text": "Between 0-3 years: 15 days. 4-5 years: 20 days. 5+ years: 25 days",
             "tag": "Good"
         },
         "pto": {
             "category": "PTO & Sick Days",
-            "text": "",
+            "text": "Unlimited personal & sick days (honor system)",
             "tag": "Excellent"
         },
         "meals": {
             "category": "Meals & Food",
-            "text": "",
-            "tag": ""
+            "text": "Free breakfast, lunch and dinner (starts 6:30pm)",
+            "tag": "Excellent"
         },
         "snacks": {
             "category": "Snacks",
-            "text": "",
-            "tag": ""
+            "text": "Fully-stocked mini kitchens (chips, cookies, fruit, etc.)",
+            "tag": "Excellent"
         },
         "drinks": {
             "category": "Drinks",
-            "text": "",
-            "tag": ""
+            "text": "Juice bars, french press coffee machines, soda, juice, milk, bottled drinks etc.",
+            "tag": "Excellent"
         },
         "retire": {
             "category": "401k Matching",
-            "text": "",
-            "tag": ""
+            "text": "50% match up to $9000 or 100% match up to $3000 (whichever is higher)",
+            "tag": "Excellent"
         },
         "health": {
             "category": "Health & Fitness",
-            "text": "",
-            "tag": ""
+            "text": "Onsite fitness centre, free massages",
+            "tag": "Excellent"
+        },
+        "mental": {
+            "category": "Mental Health",
+            "text": "Free 24/7 access to confidential counseling services",
+            "tag": "Excellent"
         },
         "spons": {
             "category": "Sponsorship",
-            "text": "",
-            "tag": ""
+            "text": "Will sponsor immediately",
+            "tag": "Excellent"
         },
         "holiday": {
             "category": "Company Holidays",
-            "text": "",
-            "tag": ""
+            "text": "12 days (New Year’s Day + 1 day, MLK Day, Presidents’ Day, Memorial Day, Independence Day + 1 day, Labor Day, Thanksgiving Day + 1 day, Christmas Day + 1 day)",
+            "tag": "Excellent"
         },
         "phone": {
-            "category": "Cellphone Allowance",
-            "text": "",
-            "tag": ""
+            "category": "Cellphone $",
+            "text": "$70/month or go on their corporate plan",
+            "tag": "Excellent"
         },
         "charity": {
             "category": "Donation Matching",
-            "text": "",
-            "tag": ""
+            "text": "$6000/year, 20 paid hours/year to volunteer",
+            "tag": "Excellent"
         },
         "commute": {
             "category": "Commuter Benefits",
-            "text": "",
-            "tag": ""
+            "text": "Company shuttle. No public transit or rideshare options. Free parking onsite",
+            "tag": "Good"
         },
         "leave": {
-            "category": "Maternity/Paternity",
-            "text": "",
-            "tag": ""
+            "category": "Parental Leave",
+            "text": "18 weeks paid maternity leave, 4 weeks off before birth, and 12 weeks paid paternity leave. $500 baby cash",
+            "tag": "Excellent"
         },
         "child": {
-            "category": "Childcare & Family",
-            "text": "",
-            "tag": ""
+            "category": "Childcare",
+            "text": "Free premium membership to Care.com and 10 subsidized days of in-home or in-center childcare",
+            "tag": "Good"
+        },
+        "fam": {
+            "category": "Family",
+            "text": "Up to $25000 for agency fees or legal expenses. up to $25000 for surrogacy fees",
+            "tag": "Excellent"
         },
         "onsite": {
             "category": "Onsite Facilities",
-            "text": "",
-            "tag": ""
-        },
-        "dog": {
-            "category": "Dog-friendly Policy",
-            "text": "",
-            "tag": ""
+            "text": "Physicians and nurses for health & wellness available onsite. Onsite massage therapists and confidential counseling service",
+            "tag": "Excellent"
         },
         "rec": {
             "category": "Recreation",
-            "text": "",
-            "tag": ""
+            "text": "Ping pong tables, foosball, arcades depending on building",
+            "tag": "Excellent"
         },
         "edu": {
-            "category": "Educational Benefits",
-            "text": "",
-            "tag": ""
+            "category": "Education",
+            "text": "1/3 off up to $1000 for non-work related courses, 2/3 off up to $10000 for work related courses",
+            "tag": "Excellent"
         },
         "insurance": {
             "category": "Health Insurance",
-            "text": "",
-            "tag": ""
+            "text": "Basic vision: $0 ($150 for frames per year), basic dental: $0 (100% coverage for preventitive care, 60% off for major operations). General: $0 (Deductible: $1300/individuals, $2600/family)",
+            "tag": "Excellent"
         },
         "hsa": {
             "category": "Health Savings",
-            "text": "",
-            "tag": ""
+            "text": "gHIP plan members are eligible for a $1000 (single) or $2000 (family) contribution from Google",
+            "tag": "Excellent"
         },
         "misc": {
             "category": "Miscellaneous",
-            "text": "",
-            "tag": ""
+            "text": "Oncall pay at 1x, 0.66x or 0.33x of your base salary depending on the tier of your service, caps at 80 hrs per quarter. Free cooking lessons on site. Free fitness classes on site. Internet $ ($75/month)",
+            "tag": "Excellent"
         }
     },
     "facebook": {
         "comp": {
             "category": "$ Philosophy",
-            "text": "",
+            "text": "In order to keep you happy, Google will give raises, cash bonuses and stock refreshers yearly. You get larger raises if promoted",
             "tag": "Excellent"
         },
         "vac": {
             "category": "Vacation",
-            "text": "",
+            "text": "21 days (for both vacation & PTO)",
             "tag": "Excellent"
         },
         "pto": {
             "category": "PTO & Sick Days",
-            "text": "",
+            "text": "Unlimited sick days. 1 month off every 5 years.",
             "tag": "Excellent"
         },
         "meals": {
             "category": "Meals & Food",
-            "text": "",
-            "tag": ""
+            "text": "Free breakfast, lunch and dinner (from 5:45pm - 8pm)",
+            "tag": "Excellent"
         },
         "snacks": {
             "category": "Snacks",
-            "text": "",
-            "tag": ""
+            "text": "Fully stocked kitchens (chips, cookies, fruit, etc.)",
+            "tag": "Excellent"
         },
         "drinks": {
             "category": "Drinks",
-            "text": "",
-            "tag": ""
+            "text": "Juice bars, smoothie machines, coffee machines, soda, bottled drinks, juice, milk etc.",
+            "tag": "Excellent"
         },
         "retire": {
             "category": "401k Matching",
-            "text": "",
-            "tag": ""
+            "text": "50% match up to 7% of your base pay i.e. $3500 on $7000 contribution with a base pay of $100,000",
+            "tag": "Good"
         },
         "health": {
             "category": "Health & Fitness",
-            "text": "",
-            "tag": ""
+            "text": "$720/year for health and wellness",
+            "tag": "Excellent"
+        },
+        "mental": {
+            "category": "Mental Health",
+            "text": "25 free therapy session/year for you and dependents",
+            "tag": "Good"
         },
         "spons": {
             "category": "Sponsorship",
-            "text": "",
-            "tag": ""
+            "text": "Will sponsor after 3 months",
+            "tag": "Good"
         },
         "holiday": {
             "category": "Company Holidays",
-            "text": "",
-            "tag": ""
+            "text": "11 holidays (New Year’s Day, MLK Day, Presidents’ Day, Memorial Day, Independence Day + 1 day, Labor Day, Thanksgiving Day + 1 day, Christmas Day + 1 day)",
+            "tag": "Good"
         },
         "phone": {
-            "category": "Cellphone Allowance",
-            "text": "",
-            "tag": ""
+            "category": "Cellphone $",
+            "text": "Free company phone with paid service",
+            "tag": "Excellent"
         },
         "charity": {
             "category": "Donation Matching",
-            "text": "",
-            "tag": ""
+            "text": "None",
+            "tag": "None"
         },
         "commute": {
             "category": "Commuter Benefits",
-            "text": "",
-            "tag": ""
+            "text": "Company shuttle. No public transit or rideshare options. Free parking onsite",
+            "tag": "Good"
         },
         "leave": {
-            "category": "Maternity/Paternity",
-            "text": "",
-            "tag": ""
+            "category": "Parental Leave",
+            "text": "Mothers receive 16 weeks (~4 months) paid maternity leave plus 6-8 weeks of paid disability leave. Fathers receive 16 weeks (~4 months) paid paternity leave. $4000 baby cash",
+            "tag": "Excellent"
         },
         "child": {
-            "category": "Childcare & Family",
-            "text": "",
-            "tag": ""
+            "category": "Childcare",
+            "text": "$3000/year for childcare expenses 10 uses/year of back-up care including in-home care for a child, adult or elder",
+            "tag": "Excellent"
+        },
+        "fam": {
+            "category": "Family",
+            "text": "$10000 for fees related to adoption. $20000 for fees related to surrogacy",
+            "tag": "Excellent"
         },
         "onsite": {
             "category": "Onsite Facilities",
-            "text": "",
-            "tag": ""
-        },
-        "dog": {
-            "category": "Dog-friendly Policy",
-            "text": "",
-            "tag": ""
+            "text": "Doctors on call (health center at worki including prescriptions, vaccines, dental and vision). Barber on site (MLP office). Dry cleaning and laundry",
+            "tag": "Excellent"
         },
         "rec": {
             "category": "Recreation",
-            "text": "",
-            "tag": ""
+            "text": "Ping pong tables, arcades, etc.",
+            "tag": "Excellent"
         },
         "edu": {
-            "category": "Educational Benefits",
-            "text": "",
-            "tag": ""
+            "category": "Education",
+            "text": "None",
+            "tag": "None"
         },
         "insurance": {
             "category": "Health Insurance",
-            "text": "",
-            "tag": ""
+            "text": "Basic vision: $0 ($10 copay for vision exam, 25$ copay for frames and lenses, $150 for frames, $150 for contacts), $2000 for Lasik (1 time only). Basic dental: $0 (Deductable: 50$ in general, 0$ for preventitive care, $2000 max benefit/year). General: $0 (Single: Deductable: $250, max out of pocket: $1500) (Family: $500, max out of pocket: $3000)",
+            "tag": "Excellent"
         },
         "hsa": {
             "category": "Health Savings",
-            "text": "",
-            "tag": ""
+            "text": "None",
+            "tag": "None"
         },
         "misc": {
             "category": "Miscellaneous",
-            "text": "",
-            "tag": ""
+            "text": "250$ FB ad credit to use or give away. Laundry and drycleaning onsite and reimbursement. Free valet parking.",
+            "tag": "Fair"
         }
     },
     "amazon": {
         "comp": {
             "category": "$ Philosophy",
-            "text": "",
+            "text": "Your comp should fall in a certain band, so yearly raise will be very little (1% - 3%). Raises when promoted (10% - 30%). If your stocks increase in value, no raise. No yearly cash bonuses or stock refreshers. Salary capped at $160k",
             "tag": "Poor"
         },
         "vac": {
             "category": "Vacation",
-            "text": "",
+            "text": "Between 0-1 years: 10 days. 1-6 years: 15 days. 6+ years: 20 days",
             "tag": "Fair"
         },
         "pto": {
             "category": "PTO & Sick Days",
-            "text": "",
-            "tag": "Good"
+            "text": "6 days of PTO & 3 sick days",
+            "tag": "Fair"
         },
         "meals": {
             "category": "Meals & Food",
-            "text": "",
-            "tag": ""
+            "text": "None",
+            "tag": "None"
         },
         "snacks": {
             "category": "Snacks",
-            "text": "",
-            "tag": ""
+            "text": "None",
+            "tag": "None"
         },
         "drinks": {
             "category": "Drinks",
-            "text": "",
-            "tag": ""
+            "text": "Starbucks drip coffee, a variety of teas, hot chocolate mix, cider mix",
+            "tag": "Poor"
         },
         "retire": {
             "category": "401k Matching",
-            "text": "",
-            "tag": ""
+            "text": "50% match up to 4% of your base pay i.e. $2000 on $4000 contribution with a base salary of $100,000. Matches only vest after 3 years. Unvested matches are forfeited",
+            "tag": "Poor"
         },
         "health": {
             "category": "Health & Fitness",
-            "text": "",
-            "tag": ""
+            "text": "None",
+            "tag": "None"
+        },
+        "mental": {
+            "category": "Mental Health",
+            "text": "Free 24/7 access to counselling services through ComPsych GuidanceResources",
+            "tag": "Excellent"
         },
         "spons": {
             "category": "Sponsorship",
-            "text": "",
-            "tag": ""
+            "text": "Will not sponsor SDE1 for greencard but can begin process. Will sponsor immediately for SDE2+",
+            "tag": "Good"
         },
         "holiday": {
             "category": "Company Holidays",
-            "text": "",
-            "tag": ""
+            "text": "6 days (New Year's Day, Memorial Day, Independence Day, Labor Day, Thanksgiving, Christmas Day)",
+            "tag": "None"
         },
         "phone": {
-            "category": "Cellphone Allowance",
-            "text": "",
-            "tag": ""
+            "category": "Cellphone $",
+            "text": "$50/month",
+            "tag": "Good"
         },
         "charity": {
             "category": "Donation Matching",
-            "text": "",
-            "tag": ""
+            "text": "None",
+            "tag": "None"
         },
         "commute": {
             "category": "Commuter Benefits",
-            "text": "",
-            "tag": ""
+            "text": "No company shuttle. Free Orca card (public transit). 160$/month rideshare reimbursement (Vanpool, Uber Pool, Waze, etc.) to work. 160$/month parking reimbursement (fully covers parking costs).",
+            "tag": "Good"
         },
         "leave": {
-            "category": "Maternity/Paternity",
-            "text": "",
-            "tag": ""
+            "category": "Parental Leave",
+            "text": "4 weeks paid pre-birth maternity leave, 10 weeks post-birth maternity leave. 6 weeks parental leave (mother or father), but none if working at Amazon <1 year.",
+            "tag": "Poor"
         },
         "child": {
-            "category": "Childcare & Family",
-            "text": "",
-            "tag": ""
+            "category": "Childcare",
+            "text": "Free membership to Bright Horizons child care centers ($250 value)",
+            "tag": "Poor"
+        },
+        "fam": {
+            "category": "Family",
+            "text": "$5000 for fees related to adoption",
+            "tag": "Fair"
         },
         "onsite": {
             "category": "Onsite Facilities",
-            "text": "",
-            "tag": ""
-        },
-        "dog": {
-            "category": "Dog-friendly Policy",
-            "text": "",
-            "tag": ""
+            "text": "Some buildings have showers. Most building have bike racks. Open office or cubicles depend on your building",
+            "tag": "Fair"
         },
         "rec": {
             "category": "Recreation",
-            "text": "",
-            "tag": ""
+            "text": "Some buildings have ping pong and foosball",
+            "tag": "Good"
         },
         "edu": {
-            "category": "Educational Benefits",
-            "text": "",
-            "tag": ""
+            "category": "Education",
+            "text": "None",
+            "tag": "None"
         },
         "insurance": {
             "category": "Health Insurance",
-            "text": "",
-            "tag": ""
+            "text": "Basic vision: $3/month (Deductable: frames $10, eye exam $0, $130-$150 for frames or contacts depends on brand). Basic dental: $7/month (Deductable: single $50, family: $150, preventitive care: $0). General: $27/month (Deductable: single $1000, couple: $2000, single with children $2000, family $3000)",
+            "tag": "Fair"
         },
         "hsa": {
             "category": "Health Savings",
-            "text": "",
-            "tag": ""
+            "text": "Amazon contributes $500 for individuals, $1000 for you and a dependent and $1500 for a family",
+            "tag": "Good"
         },
         "misc": {
             "category": "Miscellaneous",
-            "text": "",
-            "tag": ""
+            "text": "10% off of $1000 of purchases per year from Amazon retail website",
+            "tag": "Poor"
         }
     },
     "microsoft": {
         "comp": {
             "category": "$ Philosophy",
-            "text": "",
-            "tag": "Excellent"
+            "text": "You get a competitive base, sign-on and stock grant. You get respectable raises and bonuses every year",
+            "tag": "Good"
         },
         "vac": {
             "category": "Vacation",
-            "text": "",
-            "tag": "Bad"
+            "text": "Between 0-6 years: 15 days. 6-12 years: 20 days. 12+ years: 25 days,",
+            "tag": "Good"
         },
         "pto": {
             "category": "PTO & Sick Days",
-            "text": "",
-            "tag": ""
+            "text": "10 sick days & 2 personal days",
+            "tag": "Excellent"
         },
         "meals": {
             "category": "Meals & Food",
-            "text": "",
-            "tag": ""
+            "text": "Subsidized lunch",
+            "tag": "Fair"
         },
         "snacks": {
             "category": "Snacks",
-            "text": "",
-            "tag": ""
+            "text": "None",
+            "tag": "None"
         },
         "drinks": {
             "category": "Drinks",
-            "text": "",
-            "tag": ""
+            "text": "Variety of bottled drinks, coffee, soda, tea, milk, juice etc.",
+            "tag": "Good"
         },
         "retire": {
             "category": "401k Matching",
-            "text": "",
-            "tag": ""
+            "text": "50% match up to limit i.e. $9250 on a $18500 contribution",
+            "tag": "Excellent"
         },
         "health": {
             "category": "Health & Fitness",
-            "text": "",
-            "tag": ""
+            "text": "800$/year on health and wellness. Free membership at the ProSports Club",
+            "tag": "Excellent"
+        },
+        "mental": {
+            "category": "Mental Health",
+            "text": "Depends on insurance plan",
+            "tag": "Fair"
         },
         "spons": {
             "category": "Sponsorship",
-            "text": "",
-            "tag": ""
+            "text": "Starts after 45-60 days",
+            "tag": "Good"
         },
         "holiday": {
             "category": "Company Holidays",
-            "text": "",
-            "tag": ""
+            "text": "10 holidays (New Year’s Day, MLK Day, Presidents’ Day, Memorial Day, Independence Day + 1 day, Labor Day, Thanksgiving Day + 1 day, Christmas Day)",
+            "tag": "Good"
         },
         "phone": {
-            "category": "Cellphone Allowance",
-            "text": "",
-            "tag": ""
+            "category": "Cellphone $",
+            "text": "$50/month",
+            "tag": "Good"
         },
         "charity": {
             "category": "Donation Matching",
-            "text": "",
-            "tag": ""
+            "text": "$15000/year on donations. Donations for hours of volunteer work",
+            "tag": "Excellent"
         },
         "commute": {
             "category": "Commuter Benefits",
-            "text": "",
-            "tag": ""
+            "text": "Company shuttle. Free Orca card (public transit). No rideshare options. Free parking onsite",
+            "tag": "Excellent"
         },
         "leave": {
-            "category": "Maternity/Paternity",
-            "text": "",
-            "tag": ""
+            "category": "Parental Leave",
+            "text": "12 weeks paid maternity leave and 12 weeks paid paternity leave. 20 weeks months if you are a new mother",
+            "tag": "Good"
         },
         "child": {
-            "category": "Childcare & Family",
-            "text": "",
-            "tag": ""
+            "category": "Childcare",
+            "text": "Subsidized and discounted offsite childcare",
+            "tag": "Fair"
+        },
+        "fam": {
+            "category": "Family",
+            "text": "$10000 for fees related to adoption $50000 for IVF",
+            "tag": "Good"
         },
         "onsite": {
             "category": "Onsite Facilities",
-            "text": "",
-            "tag": ""
-        },
-        "dog": {
-            "category": "Dog-friendly Policy",
-            "text": "",
-            "tag": ""
+            "text": "On-Campus health access. Access to onsite clinic, nurses and physicians",
+            "tag": "Good"
         },
         "rec": {
             "category": "Recreation",
-            "text": "",
-            "tag": ""
+            "text": "Lots of xboxes, pool tables, arcade machines, ping pong tables etc.",
+            "tag": "Excellent"
         },
         "edu": {
-            "category": "Educational Benefits",
-            "text": "",
-            "tag": ""
+            "category": "Education",
+            "text": "$5250 for undergraduate coursework $10000 for graduate coursework",
+            "tag": "Excellent"
         },
         "insurance": {
             "category": "Health Insurance",
-            "text": "",
-            "tag": ""
+            "text": "Basic vision: $0 ($10 copay for vision exam, 25$ copay for frames and lenses, $150 for frames, $150 for contacts), $2000 for lasik (1 time only). Basic dental: $0 (Deductable: 50$ in general, 0$ for preventitive care, $2000 max benefit/year). General: $0 (Deductable: single $250, max out of pocket: $1500, family $500, max out of pocket: $3000)",
+            "tag": "Excellent"
         },
         "hsa": {
             "category": "Health Savings",
-            "text": "",
-            "tag": ""
+            "text": "Microsoft contributes $1000 - $2500 to your HSA",
+            "tag": "Excellent"
         },
         "misc": {
             "category": "Miscellaneous",
-            "text": "",
-            "tag": ""
+            "text": "10% discount on stock for employees",
+            "tag": "Good"
         }
     },
     "uber": {
         "comp": {
             "category": "$ Philosophy",
-            "text": "",
-            "tag": ""
+            "text": "You get a huge initial stock grant. You also get raises, cash bonuses and large stock refreshers yearly.",
+            "tag": "Excellent"
         },
         "vac": {
             "category": "Vacation",
-            "text": "",
-            "tag": ""
+            "text": "Unlimited PTO",
+            "tag": "Excellent"
         },
         "pto": {
             "category": "PTO & Sick Days",
-            "text": "",
-            "tag": ""
+            "text": "Unlimited PTO",
+            "tag": "Excellent"
         },
         "meals": {
             "category": "Meals & Food",
-            "text": "",
-            "tag": ""
+            "text": "Free breakfast, lunch and dinner (starts 7pm)",
+            "tag": "Excellent"
         },
         "snacks": {
             "category": "Snacks",
-            "text": "",
-            "tag": ""
+            "text": "Fully stocked kitchens (chips, cookies, fruit etc.)",
+            "tag": "Excellent"
         },
         "drinks": {
             "category": "Drinks",
-            "text": "",
-            "tag": ""
+            "text": "Variety of bottled drinks, coffee, soda, tea, milk, juice etc.",
+            "tag": "Excellent"
         },
         "retire": {
             "category": "401k Matching",
-            "text": "",
-            "tag": ""
+            "text": "None",
+            "tag": "None"
         },
         "health": {
             "category": "Health & Fitness",
-            "text": "",
-            "tag": ""
+            "text": "$68/month on fitness gear, gym memberships etc.",
+            "tag": "Excellent"
+        },
+        "mental": {
+            "category": "Mental Health",
+            "text": "Depends on insurance plan",
+            "tag": "Fair"
         },
         "spons": {
             "category": "Sponsorship",
-            "text": "",
-            "tag": ""
+            "text": "After 6 months of employment",
+            "tag": "Poor"
         },
         "holiday": {
             "category": "Company Holidays",
-            "text": "",
-            "tag": ""
+            "text": "10 days (New Year’s Day, MLK Day, Presidents’ Day, Memorial Day, Independence Day + 1 day, Labor Day, Thanksgiving Day + 1 day, Christmas Day)",
+            "tag": "Good"
         },
         "phone": {
-            "category": "Cellphone Allowance",
-            "text": "",
-            "tag": ""
+            "category": "Cellphone $",
+            "text": "$50/month",
+            "tag": "Good"
         },
         "charity": {
             "category": "Donation Matching",
-            "text": "",
-            "tag": ""
+            "text": "None",
+            "tag": "None"
         },
         "commute": {
             "category": "Commuter Benefits",
-            "text": "",
-            "tag": ""
+            "text": "No public transportation benefits. 17% discount on Uber rides, $200 Uber credits/month, free Uber rides from nearby public transportation stations to offices. Tax deduct $265/month for parking, ridesharing, etc.",
+            "tag": "Excellent"
         },
         "leave": {
-            "category": "Maternity/Paternity",
-            "text": "",
-            "tag": ""
+            "category": "Parental Leave",
+            "text": "18 weeks paid parental leave (2019). $500 towards Uber Eats",
+            "tag": "Excellent"
         },
         "child": {
-            "category": "Childcare & Family",
-            "text": "",
-            "tag": ""
+            "category": "Childcare",
+            "text": "None",
+            "tag": "None"
+        },
+        "fam": {
+            "category": "Family",
+            "text": "Up to $10000 for adoption, surrogacy or IVF",
+            "tag": "Good"
         },
         "onsite": {
             "category": "Onsite Facilities",
-            "text": "",
-            "tag": ""
-        },
-        "dog": {
-            "category": "Dog-friendly Policy",
-            "text": "",
-            "tag": ""
+            "text": "Offices are generally smaller and open office, still has a startup vibe. Convenient downtown location. Shower and gym at 555 Market Street location",
+            "tag": "Good"
         },
         "rec": {
             "category": "Recreation",
-            "text": "",
-            "tag": ""
+            "text": "Yoga, ping pong, craft activities",
+            "tag": "Excellent"
         },
         "edu": {
-            "category": "Educational Benefits",
-            "text": "",
-            "tag": ""
+            "category": "Education",
+            "text": "None",
+            "tag": "None"
         },
         "insurance": {
             "category": "Health Insurance",
-            "text": "",
-            "tag": ""
+            "text": "Basic vision: $0 (eye exam copay: $10, $130 allowance for frames or contacts). Basic dental: $0 (Deductable: $50, preventative care $0). General: $0 (Deductable: single $1500, family $1500)",
+            "tag": "Excellent"
         },
         "hsa": {
             "category": "Health Savings",
-            "text": "",
-            "tag": ""
+            "text": "Uber contributes $750/individual or $1500/family to your HSA",
+            "tag": "Excellent"
         },
         "misc": {
             "category": "Miscellaneous",
-            "text": "",
-            "tag": ""
+            "text": "100% covered wearable breast pumps by Willow",
+            "tag": "Fair"
+        }
+    },
+    "adobe": {
+        "comp": {
+            "category": "$ Philosophy",
+            "text": "Solid base pay, sign-on, target bonus, and RSUs. Near but not quite at FAANG levels. Annual raises and stock refreshers",
+            "tag": "Good"
+        },
+        "vac": {
+            "category": "Vacation",
+            "text": "Unlimited PTO",
+            "tag": "Excellent"
+        },
+        "pto": {
+            "category": "PTO & Sick Days",
+            "text": "Unlimited PTO, 4 week sabbatical after 5 years, 5 weeks after 10 years, 6 weeks after 15+ years",
+            "tag": "Excellent"
+        },
+        "meals": {
+            "category": "Meals & Food",
+            "text": "Heavily subsidized meals",
+            "tag": "Poor"
+        },
+        "snacks": {
+            "category": "Snacks",
+            "text": "Fully stocked kitchens (chips, cookies, fruit etc.)",
+            "tag": "Excellent"
+        },
+        "drinks": {
+            "category": "Drinks",
+            "text": "Variety of bottled drinks, coffee, soda, tea, milk, juice etc.",
+            "tag": "Excellent"
+        },
+        "retire": {
+            "category": "401k Matching",
+            "text": "Matches 50% of first 6% or up to 3% of base pay",
+            "tag": "Fair"
+        },
+        "health": {
+            "category": "Health & Fitness",
+            "text": "Onsite gyms, $360/year for health and wellness",
+            "tag": "Excellent"
+        },
+        "mental": {
+            "category": "Mental Health",
+            "text": "Depends on insurance plan",
+            "tag": "Fair"
+        },
+        "spons": {
+            "category": "Sponsorship",
+            "text": "Will sponsor immediately",
+            "tag": "Excellent"
+        },
+        "holiday": {
+            "category": "Company Holidays",
+            "text": "20 days (New Year’s Day, MLK Day, Presidents’ Day, Memorial Day, Independence Day + 1 week, Labor Day, Thanksgiving Day, Christmas Day + 1 week)",
+            "tag": "Excellent"
+        },
+        "phone": {
+            "category": "Cellphone $",
+            "text": "Unknown",
+            "tag": "Unknown"
+        },
+        "charity": {
+            "category": "Donation Matching",
+            "text": "$10000/year for donations and volunteer time",
+            "tag": "Excellent"
+        },
+        "commute": {
+            "category": "Commuter Benefits",
+            "text": "Company shuttle. $150 for commute, free CalTrain pass. $10 discounted parking. Emergency ride home reimbursement",
+            "tag": "Excellent"
+        },
+        "leave": {
+            "category": "Parental Leave",
+            "text": "Up to 26 weeks for birth mothers. 16 weeks of paid parental leave within 6 months of the birth or placement of a child under 6 years old",
+            "tag": "Excellent"
+        },
+        "child": {
+            "category": "Childcare",
+            "text": "Bright Horizons discounts, dependent care FSA ($1200 contribution by Adobe, $5000 pretax money can be set aside)",
+            "tag": "Fair"
+        },
+        "fam": {
+            "category": "Family",
+            "text": "Up to $25000 per adoption (up to 2 adoptions). Up to $25000 per surrogacy event (up to 2 times)",
+            "tag": "Excellent"
+        },
+        "onsite": {
+            "category": "Onsite Facilities",
+            "text": "Large vibrant offices, fairly open office-styled",
+            "tag": "Good"
+        },
+        "rec": {
+            "category": "Recreation",
+            "text": "Unknown",
+            "tag": "Unknown"
+        },
+        "edu": {
+            "category": "Education",
+            "text": "$10000 one-time reimbursement for educational debt. $10000/year for continuing education. $1000/year for professional development",
+            "tag": "Excellent"
+        },
+        "insurance": {
+            "category": "Health Insurance",
+            "text": "Aetna or Kaiser",
+            "tag": "Good"
+        },
+        "hsa": {
+            "category": "Health Savings",
+            "text": "Adobe contributes up to $850 for individual and up to $1,700 for family with Aetna",
+            "tag": "Excellent"
+        },
+        "misc": {
+            "category": "Miscellaneous",
+            "text": "Purchase stock at a discount (ESP). Free Adobe Creative Cloud. Discounts on a variety of things using Fond",
+            "tag": "Excellent"
         }
     }
 }

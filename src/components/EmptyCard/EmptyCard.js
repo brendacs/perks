@@ -32,11 +32,10 @@ class EmptyCard extends Component {
           <Title>{this.props.title}</Title>
         </Header>
         <Heading>Company Sidebar</Heading>
-        <Text>Using the list of companies, you can add another company to compare perks</Text>
+        <Text>Add another company to compare perks</Text>
         <Heading>Perks Sidebar</Heading>
-        <Text>Using the list of perks, you can select a specific perk to compare</Text>
-        <Heading>Using Search Bar</Heading>
-        <Text>Using the search bar, you can add another company to compare perks</Text>
+        <Text>Select a specific perk to compare</Text>
+        <Heading>Company Search</Heading>
         <form autocomplete="off">
           <SearchBar
             placeholder="Find a company"

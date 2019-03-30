@@ -46,6 +46,10 @@ export const GuideBox = styled.div`
   -webkit-box-shadow: -13px 2px 29px -15px rgba(171,171,171,1);
   -moz-box-shadow: -13px 2px 29px -15px rgba(171,171,171,1);
   box-shadow: -13px 2px 29px -15px rgba(171,171,171,1);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  overflow: scroll;
 `;
 
 export const CloseText = styled.p`
@@ -53,3 +57,39 @@ export const CloseText = styled.p`
   margin-top: 10px;
 `;
 
+export const Heading = styled.h2`
+  font-size: 30px;
+  margin-bottom: 15px;
+`;
+
+export const Table = styled.table`
+  margin-top: 10px;
+  width: 100%;
+`;
+
+export const TRow = styled.tr`
+  width: 100%;
+`;
+
+export const THeader = styled.th`
+  width: 16%;
+  padding: 15px 8px;
+  text-align: center;
+`;
+
+export const TCell = styled.td`
+  width: 16%;
+  padding: 15px 8px;
+  border-bottom: 1px solid gray;
+  text-align: center;
+  border-right: 1px solid gray;
+  font-weight: normal;
+
+  &:first-child {
+    font-weight: bold;
+  }
+
+  &:last-child {
+    border-right: none;
+  }
+`;

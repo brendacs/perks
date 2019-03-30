@@ -37,4 +37,22 @@ export const Heading = styled.h1`
 export const SubHeading = styled.h1`
   font-size: 20px;
   color: #3a3a3a;
+  margin: 5px 0;
+`;
+
+export const Link = styled.a`
+  font-size: 16px;
+  margin-bottom: 5px;
+  color: #1d9bfb;
+  font-weight: normal;
+  text-decoration: none;
+
+  &:hover {
+    color: #1472ba;
+    cursor: pointer;
+  }
+`;
+
+export const Text = styled.p`
+  font-weight: normal;
 `;

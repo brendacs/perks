@@ -26,6 +26,7 @@ export const Title = styled.h2`
 
 export const Heading = styled.h3`
   font-size: 20px;
+  margin-top: 10px;
 `;
 
 export const Text = styled.p`
@@ -37,7 +38,6 @@ export const Text = styled.p`
 export const LinkContainer = styled.div`
   display: flex;
   flex-direction: column;
-  align-items: center;
 `;
 
 export const Link = styled.a`
@@ -55,11 +55,14 @@ export const Link = styled.a`
 
 export const SearchBar = styled.input`
   padding: 5px;
-  font-size: 16px;
+  font-size: 14px;
   border-radius: 5px;
   border: 1px solid #1d9bfb;
   outline: none;
   width: 90%;
-  margin-top: -15px;
+  margin-top: 15px;
   margin-bottom: 15px;
+  -webkit-box-shadow: -1px 3px 20px -10px rgba(179,179,179,1);
+  -moz-box-shadow: -1px 3px 20px -10px rgba(179,179,179,1);
+  box-shadow: -1px 3px 20px -10px rgba(179,179,179,1);
 `;

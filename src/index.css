@@ -60,7 +60,6 @@ body {
   padding: 0;
   font-weight: bold;
   font-size: 16px;
-  color: #2d2d2d;
   width: 100vw;
   overflow-x: hidden;
 }
@@ -69,6 +68,7 @@ body, input, button {
   font-family: "Karla", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  color: #2d2d2d;
 }
 
 code {

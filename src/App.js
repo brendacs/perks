@@ -5,7 +5,16 @@ import EmptyCard from './components/EmptyCard/EmptyCard';
 import Sidebar from './components/Sidebar/Sidebar';
 import Guide from './components/Guide/Guide';
 import Alert from './components/Alert/Alert';
-import { AppWrapper, BodyContainer, Container, Header, Heading, SubHeading } from './styles';
+import {
+  AppWrapper,
+  BodyContainer,
+  Container,
+  Header,
+  Heading,
+  SubHeading,
+  Link,
+  Text
+} from './styles';
 import perks from './constants/perks.json';
 
 class App extends Component {
@@ -74,10 +83,12 @@ class App extends Component {
         <Guide />
         <Header>
           <Heading>
-            <span style={{color: "#1d9bfb"}}>TechPerks</span>
+            <span style={{color: "#1d9bfb"}}>CompanyPerks</span>
             .Guide
           </Heading>
-          <SubHeading>Live Your Best Life&trade;</SubHeading>
+          <Text>A redesign & reconceptualization of&nbsp;
+            <Link href="http://perks.guide" target="_blank">perks.guide</Link>
+          </Text>
         </Header>
         <BodyContainer>
           <Container>
