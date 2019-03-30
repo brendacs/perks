@@ -27,11 +27,16 @@ export const Header = styled.div`
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  text-align: center;
 `;
 
 export const Heading = styled.h1`
   font-size: 40px;
   margin-bottom: 10px;
+
+  @media screen and (max-width: 1024px) {
+    font-size: 30px;
+  }
 `;
 
 export const SubHeading = styled.h1`

@@ -23,6 +23,10 @@ export const Tab = styled.div`
     cursor: pointer;
     right: 0;
   }
+
+  @media screen and (max-width: 500px) {
+    display: none;
+  }
 `;
 
 export const GuideContainer = styled.div`

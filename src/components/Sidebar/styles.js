@@ -3,6 +3,10 @@ import styled from 'styled-components';
 export const Container = styled.div`
   width: 200px;
   margin: 25px 0 25px 25px;
+
+  @media screen and (max-width: 1024px) {
+    display: none;
+  }
 `;
 
 export const Section = styled.div`

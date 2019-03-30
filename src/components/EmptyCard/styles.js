@@ -9,6 +9,10 @@ export const Container = styled.div`
   margin: 2.5vw;
   background-color: white;
   border: 1px dashed #1472ba;
+
+  @media screen and (max-width: 1024px) {
+    width: 200px;
+  }
 `;
 
 export const Header = styled.div`

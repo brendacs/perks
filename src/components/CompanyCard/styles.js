@@ -12,6 +12,10 @@ export const Container = styled.div`
   -moz-box-shadow: -1px 3px 20px -10px rgba(179,179,179,1);
   box-shadow: -1px 3px 20px -10px rgba(179,179,179,1);
   border: 1px solid white;
+
+  @media screen and (max-width: 1024px) {
+    width: 200px;
+  }
 `;
 
 export const Header = styled.div`
