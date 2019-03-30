@@ -53,7 +53,7 @@
         "holiday": {
             "category": "Company Holidays",
             "text": "12 days (New Year’s Day + 1 day, MLK Day, Presidents’ Day, Memorial Day, Independence Day + 1 day, Labor Day, Thanksgiving Day + 1 day, Christmas Day + 1 day)",
-            "tag": "Excellent"
+            "tag": "Good"
         },
         "phone": {
             "category": "Cellphone $",
@@ -125,7 +125,7 @@
         "vac": {
             "category": "Vacation",
             "text": "21 days (for both vacation & PTO)",
-            "tag": "Excellent"
+            "tag": "Good"
         },
         "pto": {
             "category": "PTO & Sick Days",

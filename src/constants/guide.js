@@ -1,7 +1,7 @@
 const guide = [
   [
     "Compensation Philosophy",
-    "Large yearly cash bonuses, raises, and stock refreshers (target is 20+ % of TC)",
+    "Large yearly cash bonuses, raises, and stock refreshers (target is 20+% of TC)",
     "Yearly cash bonuses, raises, or stock refreshers (target is 10 - 20% of TC)",
     "Either yearly cash bonuses, raises, or stock refreshers (target 0 - 10% of TC)",
     "Raises matching or around the rate of inflation (2.0%)",
@@ -9,9 +9,9 @@ const guide = [
   ],
   [
     "Vacation & Time Off",
-    "20+ days",
-    "11 - 19 days",
-    "10 days",
+    "Unlimited",
+    "15 - 21 days",
+    "10 - 14 days",
     "0 - 9 days",
     "None"
   ],
@@ -81,8 +81,8 @@ const guide = [
   ],
   [
     "Company Holidays",
-    "12 holidays (all holidays+ all days after holidays)",
-    "10 - 11 holidays (all holidays & some floating days after holidays)",
+    "12 holidays (all holidays + week-long shutdowns)",
+    "10 - 12 holidays (all holidays & some floating days after holidays)",
     "9 holidays (all federal holidays & most optional holidays)",
     "7 - 8 holidays (all federal holidays & some optional holidays)",
     "6 holidays (just federal holidays)",
@@ -104,28 +104,12 @@ const guide = [
     "None",
   ],
   [
-    "Public Transit Benefits",
-    "Unlimited passes or full subsidy",
-    "Mostly subsidized",
-    "Discounted or partially subsidized",
-    "Limited subsidies or limited number of tokens",
+    "Commuter Benefits",
+    "Company shuttle, unlimited passes or full subsidy of public transport, ridesharing $250+/month, free parking",
+    "Company shuttle, Mostly subsidized public transport, ridesharing, or parking",
+    "Company shuttle, Discounted or partially subsidized public transport, ridesharing, or parking",
+    "Limited subsidies or limited number of tokens for public transport or ridesharing, no free parking",
     "None",
-  ],
-  [
-    "Ridesharing benefits",
-    "~$250+/month",
-    "~$100 - 200/month",
-    "~$50 - 100/month",
-    "<$50/month",
-    "None",
-  ],
-  [
-    "Parking benefits",
-    "Free parking",
-    "~75% off parking",
-    "~50% off parking",
-    "~25% off parking",
-    "Full price parking",
   ],
   [
     "Maternity & paternity leave",
