@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Container, Section, Heading, Text, LinkContainer, Link } from './styles';
+import { Container, Section, Heading, LinkContainer, Link } from './styles';
 import perks from '../../constants/perks.json';
 
 class Sidebar extends Component {

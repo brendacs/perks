@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import { TagContainer } from './styles.js';
 
 const Tag = ({ text, type }) => {

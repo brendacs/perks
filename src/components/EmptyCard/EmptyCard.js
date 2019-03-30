@@ -49,7 +49,7 @@ class EmptyCard extends Component {
               return (
                 <Link
                   onClick={() => this.props.addCard(idx)}
-                  visible={item.toLowerCase().startsWith(searchTerm) && searchTerm != ""}
+                  visible={item.toLowerCase().startsWith(searchTerm) && searchTerm !== ""}
                 >
                   {item.charAt(0).toUpperCase() + item.substring(1)}
                 </Link>

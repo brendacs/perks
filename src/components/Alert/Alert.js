@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import { AlertContainer, Link } from './styles.js';
 
 const Alert = ({ text, type, showAlert, closeAlert }) => {

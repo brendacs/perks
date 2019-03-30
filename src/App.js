@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import randomColor from 'randomcolor';
 import CompanyCard from './components/CompanyCard/CompanyCard';
 import EmptyCard from './components/EmptyCard/EmptyCard';
 import Sidebar from './components/Sidebar/Sidebar';
@@ -11,7 +10,6 @@ import {
   Container,
   Header,
   Heading,
-  SubHeading,
   Link,
   Text
 } from './styles';
