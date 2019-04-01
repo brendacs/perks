@@ -19,7 +19,7 @@ class App extends Component {
   constructor() {
     super();
     this.state = {
-      cards: new Set([0, 1, 2]),
+      cards: [0, 1, 2],
       perks: -1,
       alert: "",
       alertType: "",
@@ -28,13 +28,13 @@ class App extends Component {
   }
 
   closeCard = (idx) => {
-    let newCards = new Set(this.state.cards);
-    newCards.delete(idx);
+    let newCards = [...this.state.cards];
+    newCards.splice(idx, 1);
     this.setState({ cards: newCards });
   }
 
   addCard = (idx) => {
-    if (this.state.cards.has(idx)) {
+    if (this.state.cards.indexOf(idx) !== -1) {
       this.setState({
         alert: "This company has already been selected",
         alertType: "Error",
@@ -43,10 +43,10 @@ class App extends Component {
       return;
     }
 
-    let newCards = new Set(this.state.cards);
+    let newCards = [...this.state.cards];
 
-    if (newCards.size < 3) {
-      newCards.add(idx);
+    if (newCards.length < 3) {
+      newCards.push(idx);
       this.setState({ cards: newCards });
       this.setState({ alert: "", alertType: "" });
     } else {
@@ -91,14 +91,12 @@ class App extends Component {
         <BodyContainer>
           <Container>
             {
-              companyList.map((item, idx) => {
+              this.state.cards.map((item, idx) => {
                 return (
                   <CompanyCard
-                    company={item}
-                    visible={this.state.cards.has(idx)}
-                    key={idx}
+                    company={companyList[item]}
+                    visible
                     closeCard={() => this.closeCard(idx)}
-                    cards={this.state.cards}
                     perks={this.state.perks}
                     comparePerk={this.comparePerk}
                   />
@@ -110,7 +108,7 @@ class App extends Component {
                 return (
                   <EmptyCard
                     title="Add Company"
-                    visible={this.state.cards.size < item}
+                    visible={this.state.cards.length < item}
                     addCard={this.addCard}
                   />
                 );
