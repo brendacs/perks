@@ -1,13 +1,13 @@
 {
   "main.css": "/perks/static/css/main.dc879fe8.chunk.css",
-  "main.js": "/perks/static/js/main.cffb8ae1.chunk.js",
-  "main.js.map": "/perks/static/js/main.cffb8ae1.chunk.js.map",
+  "main.js": "/perks/static/js/main.15c795cc.chunk.js",
+  "main.js.map": "/perks/static/js/main.15c795cc.chunk.js.map",
   "runtime~main.js": "/perks/static/js/runtime~main.0971d7e1.js",
   "runtime~main.js.map": "/perks/static/js/runtime~main.0971d7e1.js.map",
-  "static/js/2.44a026e0.chunk.js": "/perks/static/js/2.44a026e0.chunk.js",
-  "static/js/2.44a026e0.chunk.js.map": "/perks/static/js/2.44a026e0.chunk.js.map",
+  "static/js/2.b67e90a1.chunk.js": "/perks/static/js/2.b67e90a1.chunk.js",
+  "static/js/2.b67e90a1.chunk.js.map": "/perks/static/js/2.b67e90a1.chunk.js.map",
   "index.html": "/perks/index.html",
-  "precache-manifest.0d98e5cf9d3c8a367a4d8709d8bb34dd.js": "/perks/precache-manifest.0d98e5cf9d3c8a367a4d8709d8bb34dd.js",
+  "precache-manifest.266b4c24ff82d73bf34e39496ac9d8ee.js": "/perks/precache-manifest.266b4c24ff82d73bf34e39496ac9d8ee.js",
   "service-worker.js": "/perks/service-worker.js",
   "static/css/main.dc879fe8.chunk.css.map": "/perks/static/css/main.dc879fe8.chunk.css.map"
 }
