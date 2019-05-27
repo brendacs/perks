@@ -701,6 +701,238 @@
       "tag": "Excellent"
     }
   },
-  "apple": {},
-  "linkedin": {}
+  "apple": {
+    "comp": {
+      "category": "$ Philosophy",
+      "text": "Target refreshers/year based on performance can be as high as 100% of base salary in RSUs/4 years. Average ratings might mean ~50% of base salary in refreshers",
+      "tag": "Excellent"
+    },
+    "vac": {
+      "category": "Vacation",
+      "text": "12 days PTO",
+      "tag": "Good"
+    },
+    "pto": {
+      "category": "PTO & Sick Days",
+      "text": "5 sick days",
+      "tag": "Poor"
+    },
+    "meals": {
+      "category": "Meals & Food",
+      "text": "Subsidized lunches",
+      "tag": "Fair"
+    },
+    "snacks": {
+      "category": "Snacks",
+      "text": "Varies based on team",
+      "tag": "Poor"
+    },
+    "drinks": {
+      "category": "Drinks",
+      "text": "Varies, good locations have soda, milk. All locations have coffee",
+      "tag": "Fair"
+    },
+    "retire": {
+      "category": "401k Matching",
+      "text": "Between 0-4 yrs: 3% match to your base salary. 4+ yrs: 6% match to your base salary",
+      "tag": "Good"
+    },
+    "health": {
+      "category": "Health & Fitness",
+      "text": "Subsidized onsite gym: $9/month. $300/yr if location doesn't have an onsite gym",
+      "tag": "Good"
+    },
+    "mental": {
+      "category": "Mental Health",
+      "text": "Depends on insurance plan",
+      "tag": "Fair"
+    },
+    "spons": {
+      "category": "Sponsorship",
+      "text": "Will sponsor on day 1",
+      "tag": "Excellent"
+    },
+    "holiday": {
+      "category": "Company Holidays",
+      "text": "2 weeks of shutdown (Thanksgiving and Christmas) + 5 holidays (New Year's Day, MLK Day, Memorial Day, Independence Day, Labor Day)",
+      "tag": "Excellent"
+    },
+    "phone": {
+      "category": "Cellphone $",
+      "text": "Carrier discount plan. 25% off Apple devices (once per year) including iPhones",
+      "tag": "Good"
+    },
+    "charity": {
+      "category": "Donation Matching",
+      "text": "Match up to $10000/yr",
+      "tag": "Excellent"
+    },
+    "commute": {
+      "category": "Commuter Benefits",
+      "text": "Company shuttle and free parking. $100/month for transportation including public transit and ridesharing",
+      "tag": "Excellent"
+    },
+    "leave": {
+      "category": "Parental Leave",
+      "text": "18 weeks for paid maternity leave, 6 weeks of paid paternity leave",
+      "tag": "Excellent"
+    },
+    "child": {
+      "category": "Childcare",
+      "text": "Set aside $5000 in pre-tax dollars for daycare and ten days of “backup care” for elders and children",
+      "tag": "Excellent"
+    },
+    "fam": {
+      "category": "Family",
+      "text": "Egg-freezing: $20000",
+      "tag": "Fair"
+    },
+    "onsite": {
+      "category": "Onsite Facilities",
+      "text": "Offices are very new. Apple park is a huge facility with it's own unique vibe. Lots of greenspace and a pond around a massive circular facility",
+      "tag": "Excellent"
+    },
+    "rec": {
+      "category": "Recreation",
+      "text": "Olympic-size swimming pool - otherwise most locations don't have recreational activities",
+      "tag": "Fair"
+    },
+    "edu": {
+      "category": "Education",
+      "text": "$5,250 towards tuition reimbursement per year",
+      "tag": "Excellent"
+    },
+    "insurance": {
+      "category": "Health Insurance",
+      "text": "Unknown",
+      "tag": "Unknown"
+    },
+    "hsa": {
+      "category": "Health Savings",
+      "text": "Apple contributes $500 to your HSA",
+      "tag": "Fair"
+    },
+    "misc": {
+      "category": "Miscellaneous",
+      "text": "Use up to 10% of your salary to buy some stock at 15% discount off lowest price of the period",
+      "tag": "Good"
+    }
+  },
+  "linkedIn": {
+    "comp": {
+      "category": "$ Philosophy",
+      "text": "Biggest raises come with promotions! Top tier (top 20%) get refreshers otherwise you don't get very much",
+      "tag": "Fair"
+    },
+    "vac": {
+      "category": "Vacation",
+      "text": "Unlimited PTO",
+      "tag": "Excellent"
+    },
+    "pto": {
+      "category": "PTO & Sick Days",
+      "text": "Unlimited PTO",
+      "tag": "Excellent"
+    },
+    "meals": {
+      "category": "Meals & Food",
+      "text": "Reputation for having amazing food. Free breakfast, lunch and dinner (starts 7pm)",
+      "tag": "Excellent"
+    },
+    "snacks": {
+      "category": "Snacks",
+      "text": "Comprehensive set of snacks, cookies, ice cream, etc. as well as healthy options such as smoothies, fruit, protein bars",
+      "tag": "Excellent"
+    },
+    "drinks": {
+      "category": "Drinks",
+      "text": "Variety of bottled drinks, coffee, soda, milk juice etc. Select locations may have kombucha, smoothie bars and extensive expresso machines",
+      "tag": "Excellent"
+    },
+    "retire": {
+      "category": "401k Matching",
+      "text": "50% match up to IRS limit. $9250 with a $18500 contribution",
+      "tag": "Excellent"
+    },
+    "health": {
+      "category": "Health & Fitness",
+      "text": "$2000 towards fitness classes, memberships, massages, gym etc.",
+      "tag": "Excellent"
+    },
+    "mental": {
+      "category": "Mental Health",
+      "text": "Depends on insurance plan",
+      "tag": "Fair"
+    },
+    "spons": {
+      "category": "Sponsorship",
+      "text": "Will sponsor immediately",
+      "tag": "Excellent"
+    },
+    "holiday": {
+      "category": "Company Holidays",
+      "text": "17 paid holidays including fully paid July 4th and end of year shutdown",
+      "tag": "Excellent"
+    },
+    "phone": {
+      "category": "Cellphone $",
+      "text": "$80/month",
+      "tag": "Excellent"
+    },
+    "charity": {
+      "category": "Donation Matching",
+      "text": "Match up to $1000/yr",
+      "tag": "Fair"
+    },
+    "commute": {
+      "category": "Commuter Benefits",
+      "text": "Company shuttle. $125 for public transportation in SF, free CalTrain pass. Free parking",
+      "tag": "Excellent"
+    },
+    "leave": {
+      "category": "Parental Leave",
+      "text": "12 weeks for father or mother",
+      "tag": "Fair"
+    },
+    "child": {
+      "category": "Childcare",
+      "text": "Childcare can be expensed as part of $2000 perk-up bonus",
+      "tag": "Excellent"
+    },
+    "fam": {
+      "category": "Family",
+      "text": "$5000 for adoption, $20000 for surrogacy",
+      "tag": "Excellent"
+    },
+    "onsite": {
+      "category": "Onsite Facilities",
+      "text": "Beautiful renovated offices in both Sunnyvale & San Francisco. Unique architecture and layout results in a vibrant dynamic work environment. Roof views, onsite gyms and quiet areas are nice touches. Onsite dental, car wash, dry cleaning and oil changes",
+      "tag": "Excellent"
+    },
+    "rec": {
+      "category": "Recreation",
+      "text": "Foosball tables, music lessons/jam room, massage rooms (depending on location)",
+      "tag": "Excellent"
+    },
+    "edu": {
+      "category": "Education",
+      "text": "$5000 towards tuition reimbursement per year",
+      "tag": "Excellent"
+    },
+    "insurance": {
+      "category": "Health Insurance",
+      "text": "Basic coverage is fully covered. No full details on coverage numbers",
+      "tag": "Excellent"
+    },
+    "hsa": {
+      "category": "Health Savings",
+      "text": "Linkedin contributes $1000-$2500 towards your HSA",
+      "tag": "Excellent"
+    },
+    "misc": {
+      "category": "Miscellaneous",
+      "text": "15% off stock off the lowest market price in the last record period. Free LinkedIn Premium subscription",
+      "tag": "Good"
+    }
+  }
 }
