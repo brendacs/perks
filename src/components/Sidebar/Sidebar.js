@@ -14,7 +14,7 @@ class Sidebar extends Component {
           <Heading>Companies</Heading>
           <LinkContainer>
             {
-              companyList.map((item, idx) => {
+              companyList.sort().map((item, idx) => {
                 return (
                   <Link onClick={() => this.props.addCard(idx)}>
                     {item.charAt(0).toUpperCase() + item.substring(1)}
