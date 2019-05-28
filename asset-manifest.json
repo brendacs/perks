@@ -1,13 +1,13 @@
 {
   "main.css": "/perks/static/css/main.3a9a4326.chunk.css",
-  "main.js": "/perks/static/js/main.5be88e58.chunk.js",
-  "main.js.map": "/perks/static/js/main.5be88e58.chunk.js.map",
+  "main.js": "/perks/static/js/main.a79e0d4e.chunk.js",
+  "main.js.map": "/perks/static/js/main.a79e0d4e.chunk.js.map",
   "runtime~main.js": "/perks/static/js/runtime~main.0971d7e1.js",
   "runtime~main.js.map": "/perks/static/js/runtime~main.0971d7e1.js.map",
   "static/js/2.b67e90a1.chunk.js": "/perks/static/js/2.b67e90a1.chunk.js",
   "static/js/2.b67e90a1.chunk.js.map": "/perks/static/js/2.b67e90a1.chunk.js.map",
   "index.html": "/perks/index.html",
-  "precache-manifest.ed25ced08e38b7fe273f404b49e0d933.js": "/perks/precache-manifest.ed25ced08e38b7fe273f404b49e0d933.js",
+  "precache-manifest.93038f0c9046d716e1d329d4fa19bf4f.js": "/perks/precache-manifest.93038f0c9046d716e1d329d4fa19bf4f.js",
   "service-worker.js": "/perks/service-worker.js",
   "static/css/main.3a9a4326.chunk.css.map": "/perks/static/css/main.3a9a4326.chunk.css.map"
 }
