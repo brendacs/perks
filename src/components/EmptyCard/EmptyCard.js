@@ -44,7 +44,7 @@ class EmptyCard extends Component {
         </form>
         <LinkContainer>
           {
-            companyList.map((item, idx) => {
+            companyList.sort().map((item, idx) => {
               const { searchTerm } = this.state;
               return (
                 <Link
