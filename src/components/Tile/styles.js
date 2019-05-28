@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const Container = styled.div`
   width: 100%;
-  min-height: 90px;
+  min-height: ${props => props.allExpanded ? '300px' : '90px'};
   border-bottom: 1px solid lightgray;
   padding: 10px 0;
   display: ${props => props.visible ? 'initial' : 'none'};

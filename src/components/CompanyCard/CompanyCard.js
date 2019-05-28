@@ -1,9 +1,16 @@
 import React, { Component } from 'react';
-import { Container, Header, Name, ViewAllLink, Close } from './styles';
+import { Container, Header, Name, CardLink, Close } from './styles';
 import Tile from '../Tile/Tile';
 import perks from '../../constants/perks.json';
 
 class CompanyCard extends Component {
+  constructor() {
+    super();
+    this.state = {
+      allExpanded: false,
+    }
+  }
+
   render() {
     const company = this.props.company;
     const companyPerks = perks[company];
@@ -12,7 +19,15 @@ class CompanyCard extends Component {
     return (
       <Container visible={this.props.visible} color={this.props.color}>
         <Header>
-          <Name>{company.charAt(0).toUpperCase() + company.substring(1)}</Name>
+          <div>
+            <Name>{company.charAt(0).toUpperCase() + company.substring(1)}</Name>
+            <CardLink
+              visible
+              onClick={() => this.setState({ allExpanded: !this.state.allExpanded })}
+            >
+              {!this.state.allExpanded ? "Expand all" : "Compress all"}
+            </CardLink>
+          </div>
           <Close onClick={this.props.closeCard}>X</Close>
         </Header>
         {
@@ -23,16 +38,17 @@ class CompanyCard extends Component {
                 text={companyPerks[item].text}
                 tag={companyPerks[item].tag}
                 visible={this.props.perks === -1 || this.props.perks === idx}
+                allExpanded={this.state.allExpanded}
               />
             );
           })
         }
-        <ViewAllLink
+        <CardLink
           visible={this.props.perks !== -1}
           onClick={() => this.props.comparePerk(-1)}
         >
           View all perks &rarr;
-        </ViewAllLink>
+        </CardLink>
       </Container>
     );
   }

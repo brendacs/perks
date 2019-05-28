@@ -15,16 +15,18 @@ class Tile extends Component {
   }
 
   render() {
-    const {heading, tag, text} = this.props;
+    const {heading, tag, text, allExpanded} = this.props;
 
     return (
-    <Container visible={this.props.visible}>
+      <Container allExpanded={allExpanded} visible={this.props.visible}>
         <Heading>{heading}</Heading>
         <Tag text={tag} type={tag} />
-        <Text show={this.state.expanded}>{text}</Text>
-        <Link onClick={this.expandTile}>
-          {!this.state.expanded ? 'Learn more...' : 'Show less'}
-        </Link>
+        <Text show={this.state.expanded || allExpanded}>{text}</Text>
+        {allExpanded ? null :
+          <Link onClick={this.expandTile}>
+            {!this.state.expanded ? 'Learn more...' : 'Show less'}
+          </Link>
+        }
       </Container>
     );
   }

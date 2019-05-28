@@ -29,9 +29,11 @@ export const Header = styled.div`
 
 export const Name = styled.h2`
   font-size: 28px;
+  margin-bottom: 10px;
+  margin-left: -1px;
 `;
 
-export const ViewAllLink = styled.a`
+export const CardLink = styled.a`
   font-size: 16px;
   color: #1d9bfb;
   font-weight: normal;
