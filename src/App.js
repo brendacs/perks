@@ -19,7 +19,7 @@ class App extends Component {
   constructor() {
     super();
     this.state = {
-      cards: [0, 1, 2],
+      cards: [4, 3, 1],
       perks: -1,
       alert: "",
       alertType: "",
@@ -67,7 +67,7 @@ class App extends Component {
   }
 
   render() {
-    const companyList = Object.keys(perks);
+    const companyList = Object.keys(perks).sort();
     const emptyCards = [1, 2, 3];
 
     return (
