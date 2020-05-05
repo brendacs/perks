@@ -37,7 +37,7 @@ export const CardLink = styled.a`
   font-size: 16px;
   color: #1d9bfb;
   font-weight: normal;
-  display: ${props => props.visible ? 'initial' : 'none'}
+  display: ${props => props.visible ? 'initial' : 'none'};
   margin-top: 20px;
 
   &:hover {

@@ -5,6 +5,7 @@ export const AppWrapper = styled.div`
   flex-direction: column;
   align-items: center;
   background-color: #f7f7f7;
+  min-height: 100vh;
 `;
 
 export const BodyContainer = styled.div`
@@ -22,7 +23,7 @@ export const Container = styled.div`
 `;
 
 export const Header = styled.div`
-  height: 210px;
+  height: 175px;
   width: 100vw;
   display: flex;
   flex-direction: column;

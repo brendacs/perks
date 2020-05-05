@@ -7,16 +7,16 @@ export const AlertContainer = styled.div`
         props.type === 'Error' ? '#e54444' :
           'transparent'
   };
-  padding: 20px 30px;
+  padding: 20px 20px 20px 30px;
   color: white;
-  width: 100vw;
+  width: 50vw;
   height: 25px;
   position: fixed;
   top: 0;
-  left: 0;
+  left: 25vw;
   display: ${props => props.showAlert ? 'flex' : 'none'};
   flex-direction: row;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
   box-sizing: border-box;
 `;
@@ -24,9 +24,6 @@ export const AlertContainer = styled.div`
 export const Link = styled.a`
   color: white;
   font-size: 16px;
-  position: absolute;
-  top: 11px;
-  right: 25px;
 
   &:hover {
     cursor: pointer;
