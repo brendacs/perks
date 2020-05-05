@@ -1,13 +1,13 @@
 {
-  "main.css": "/perks/static/css/main.24e2ae5b.chunk.css",
-  "main.js": "/perks/static/js/main.50f0995b.chunk.js",
-  "main.js.map": "/perks/static/js/main.50f0995b.chunk.js.map",
-  "runtime~main.js": "/perks/static/js/runtime~main.e1a6bb88.js",
-  "runtime~main.js.map": "/perks/static/js/runtime~main.e1a6bb88.js.map",
-  "static/js/2.09a2a0cc.chunk.js": "/perks/static/js/2.09a2a0cc.chunk.js",
-  "static/js/2.09a2a0cc.chunk.js.map": "/perks/static/js/2.09a2a0cc.chunk.js.map",
-  "index.html": "/perks/index.html",
-  "precache-manifest.1ad61b6314e4a936feae6837b97d1a94.js": "/perks/precache-manifest.1ad61b6314e4a936feae6837b97d1a94.js",
-  "service-worker.js": "/perks/service-worker.js",
-  "static/css/main.24e2ae5b.chunk.css.map": "/perks/static/css/main.24e2ae5b.chunk.css.map"
+  "main.css": "perks.brendacs.dev/static/css/main.24e2ae5b.chunk.css",
+  "main.js": "perks.brendacs.dev/static/js/main.21fed35f.chunk.js",
+  "main.js.map": "perks.brendacs.dev/static/js/main.21fed35f.chunk.js.map",
+  "runtime~main.js": "perks.brendacs.dev/static/js/runtime~main.8c834e4c.js",
+  "runtime~main.js.map": "perks.brendacs.dev/static/js/runtime~main.8c834e4c.js.map",
+  "static/js/2.921a407b.chunk.js": "perks.brendacs.dev/static/js/2.921a407b.chunk.js",
+  "static/js/2.921a407b.chunk.js.map": "perks.brendacs.dev/static/js/2.921a407b.chunk.js.map",
+  "index.html": "perks.brendacs.dev/index.html",
+  "precache-manifest.baff9c66fdccdf8a5af4c14510d3d037.js": "perks.brendacs.dev/precache-manifest.baff9c66fdccdf8a5af4c14510d3d037.js",
+  "service-worker.js": "perks.brendacs.dev/service-worker.js",
+  "static/css/main.24e2ae5b.chunk.css.map": "perks.brendacs.dev/static/css/main.24e2ae5b.chunk.css.map"
 }

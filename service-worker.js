@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/perks/precache-manifest.1ad61b6314e4a936feae6837b97d1a94.js"
+  "perks.brendacs.dev/precache-manifest.baff9c66fdccdf8a5af4c14510d3d037.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/perks/index.html", {
+workbox.routing.registerNavigationRoute("perks.brendacs.dev/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
