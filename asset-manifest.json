@@ -1,13 +1,22 @@
 {
-  "main.css": "/perks/static/css/main.24e2ae5b.chunk.css",
-  "main.js": "/perks/static/js/main.3a9e4b04.chunk.js",
-  "main.js.map": "/perks/static/js/main.3a9e4b04.chunk.js.map",
-  "runtime~main.js": "/perks/static/js/runtime~main.e1a6bb88.js",
-  "runtime~main.js.map": "/perks/static/js/runtime~main.e1a6bb88.js.map",
-  "static/js/2.239f3e89.chunk.js": "/perks/static/js/2.239f3e89.chunk.js",
-  "static/js/2.239f3e89.chunk.js.map": "/perks/static/js/2.239f3e89.chunk.js.map",
-  "index.html": "/perks/index.html",
-  "precache-manifest.25a2d57e13bef86641c8cc77b32b6e94.js": "/perks/precache-manifest.25a2d57e13bef86641c8cc77b32b6e94.js",
-  "service-worker.js": "/perks/service-worker.js",
-  "static/css/main.24e2ae5b.chunk.css.map": "/perks/static/css/main.24e2ae5b.chunk.css.map"
+  "files": {
+    "main.css": "/perks/static/css/main.7684e0e5.chunk.css",
+    "main.js": "/perks/static/js/main.41e7f8f5.chunk.js",
+    "main.js.map": "/perks/static/js/main.41e7f8f5.chunk.js.map",
+    "runtime-main.js": "/perks/static/js/runtime-main.35df329b.js",
+    "runtime-main.js.map": "/perks/static/js/runtime-main.35df329b.js.map",
+    "static/js/2.7e8adb67.chunk.js": "/perks/static/js/2.7e8adb67.chunk.js",
+    "static/js/2.7e8adb67.chunk.js.map": "/perks/static/js/2.7e8adb67.chunk.js.map",
+    "index.html": "/perks/index.html",
+    "precache-manifest.2257c8f86f7d1748c0bb3c1f2cf12331.js": "/perks/precache-manifest.2257c8f86f7d1748c0bb3c1f2cf12331.js",
+    "service-worker.js": "/perks/service-worker.js",
+    "static/css/main.7684e0e5.chunk.css.map": "/perks/static/css/main.7684e0e5.chunk.css.map",
+    "static/js/2.7e8adb67.chunk.js.LICENSE.txt": "/perks/static/js/2.7e8adb67.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35df329b.js",
+    "static/js/2.7e8adb67.chunk.js",
+    "static/css/main.7684e0e5.chunk.css",
+    "static/js/main.41e7f8f5.chunk.js"
+  ]
 }
