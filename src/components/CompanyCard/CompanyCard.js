@@ -17,7 +17,7 @@ class CompanyCard extends Component {
     const perkList = Object.keys(perks[company]);
 
     return (
-      <Container visible={this.props.visible} color={this.props.color}>
+      <Container>
         <Header>
           <div>
             <Name>{company.charAt(0).toUpperCase() + company.substring(1)}</Name>

@@ -95,7 +95,6 @@ class App extends Component {
                 return (
                   <CompanyCard
                     company={companyList[item]}
-                    visible
                     closeCard={() => this.closeCard(idx)}
                     perks={this.state.perks}
                     comparePerk={this.comparePerk}
