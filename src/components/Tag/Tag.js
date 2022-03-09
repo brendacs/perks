@@ -5,6 +5,6 @@ const Tag = ({ text, type }) => {
   return (
     <TagContainer type={type}>{text}</TagContainer>
   );
-}
+};
 
 export default Tag;

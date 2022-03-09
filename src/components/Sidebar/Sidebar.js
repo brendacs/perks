@@ -39,6 +39,6 @@ const Sidebar = ({ addCard, comparePerk }) => {
       </Section>
     </Container>
   );
-}
+};
 
 export default Sidebar;

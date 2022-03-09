@@ -8,6 +8,6 @@ const Alert = ({ text, type, showAlert, closeAlert }) => {
       <Link onClick={closeAlert}>x</Link>
     </AlertContainer>
   );
-}
+};
 
 export default Alert;

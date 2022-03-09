@@ -1,35 +1,28 @@
-import React, { Component } from 'react';
+import React, { useState } from 'react';
 import { Container, Heading, Text, Link } from './styles';
 import Tag from '../Tag/Tag';
 
-class Tile extends Component {
-  constructor() {
-    super();
-    this.state = {
-      expanded: false
-    }
+const Tile = (props) => {
+  const [expanded, setExpanded] = useState(false);
+
+  const expandTile = () => {
+    setExpanded(!expanded);
   }
 
-  expandTile = () => {
-    this.setState({ expanded: !this.state.expanded });
-  }
+  const {heading, tag, text, allExpanded, visible} = props;
 
-  render() {
-    const {heading, tag, text, allExpanded} = this.props;
-
-    return (
-      <Container allExpanded={allExpanded} visible={this.props.visible}>
-        <Heading>{heading}</Heading>
-        <Tag text={tag} type={tag} />
-        <Text show={this.state.expanded || allExpanded}>{text}</Text>
-        {allExpanded ? null :
-          <Link onClick={this.expandTile}>
-            {!this.state.expanded ? 'Learn more...' : 'Show less'}
-          </Link>
-        }
-      </Container>
-    );
-  }
-}
+  return (
+    <Container allExpanded={allExpanded} visible={visible}>
+      <Heading>{heading}</Heading>
+      <Tag text={tag} type={tag} />
+      <Text show={expanded || allExpanded}>{text}</Text>
+      {allExpanded ? null :
+        <Link onClick={expandTile}>
+          {!expanded ? 'Learn more...' : 'Show less'}
+        </Link>
+      }
+    </Container>
+  );
+};
 
 export default Tile;
